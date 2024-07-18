@@ -4,9 +4,9 @@
 
 ## Description
 
-We  Debugging or troubleshooting a problem is a core skill for all developers. Debugging allows us to find and resolve errors, bugs, or other unexpected behavior. It helps maintain high-quality code by catching issues early in the development process and reduces the need for frequence maintenance and updates.
+Debugging or troubleshooting a problem is a core skill for all developers. Debugging allows us to find and resolve errors, bugs, or other unexpected behavior. It helps maintain high-quality code by catching issues early in the development process and reduces the need for frequent maintenance and updates.
 
-While looking back at how you did something before that you know works is a valid debugging strategy, let's learn to use AI tools like ChatGPT or Copilot to help us solve these errors.
+While revisiting proven solutions is valid, let’s learn to use AI tools like ChatGPT or Copilot for debugging.
 
 ---
 
@@ -20,8 +20,8 @@ While looking back at how you did something before that you know works is a vali
 
 ## Tasks
 
-[ ] correctly load the css and js files
+[ ] Correctly load the css and js files
 
-[ ] fix all errors in the console
+[ ] Fix all errors in the console
 
-[ ] the `'Show Fun Fact' button should trigger a message when clicked.
+[ ] The `'Show Fun Fact' button should trigger a message when clicked.
